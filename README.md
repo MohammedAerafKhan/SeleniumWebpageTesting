@@ -1,4 +1,7 @@
-**Functional Tests:**
+# 🌐 Selenium WebPage Testing 
+
+Welcome to our comprehensive 📚 testing documentation for the web application project. This repository is your gateway to all the test scripts 📝, results 📊, and analyses 🧐 from our extensive testing efforts. Our primary goal is to ensure the application's functionality, performance under stress, and scalability across various scenarios.
+## 🎯 Functional Tests:
 
 We can perform functional tests by checking for the functionalities written in the requirements table. Requirements 1 through 14 are “must have and should have” functional requirements. Requirements 15 through 17 are “could have” requirements. 
 
