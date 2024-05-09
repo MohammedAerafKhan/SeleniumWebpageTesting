@@ -6,7 +6,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import NoSuchElementException
 import time
 
-images = ["images/5906ChurchillMeadows.PNG", "images/3956Beacham.PNG", "images/1540Elite.PNG", "images/3761Trelawny.PNG", "images/50-7430Copenhagen.PNG"]
+images = ["images/5906ChurchillMeadows.PNG","images/3956Beacham.PNG", "images/1540Elite.PNG", "images/3761Trelawny.PNG", "images/50-7430Copenhagen.PNG"]
 
 # Helper Function
 def image_src_contains(expected_filename, driver):
